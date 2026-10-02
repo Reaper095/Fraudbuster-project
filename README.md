@@ -16,6 +16,8 @@ This project focuses on detecting fraudulent credit card transactions using a hi
 ## Test
 
 - New Test Trial.
+- 2nd Test Trial.
+- 3rd Test Trial. 
 
 ## 📊 Dataset
 
