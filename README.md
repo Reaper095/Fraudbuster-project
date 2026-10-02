@@ -13,6 +13,10 @@ This project focuses on detecting fraudulent credit card transactions using a hi
 - [How to Run](#-how-to-run)
 - [Dependencies](#-dependencies)
 
+## Test
+
+- New Test Trial.
+
 ## 📊 Dataset
 
 The project utilizes the `creditcard.csv` dataset, which contains anonymized credit card transaction data. The features V1 through V28 are the result of a PCA transformation on the original data. The only features that have not been transformed with PCA are 'Time' and 'Amount'. The 'Class' feature is the response variable, where:
